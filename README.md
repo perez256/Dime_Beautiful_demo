@@ -1,7 +1,7 @@
 # DIME BEAUTIFY DEMO SHOPIFY APP
 This is project was coded by Perez Dikwella
 This project was bootstrapped with React Bootstrap and its built with React Js
-Redux | Thunk is managing application state | React Bootstrap | 
+Redux | Thunk is managing application state | React Bootstrap | Shopify API
 
 
 ## Install Instructions
